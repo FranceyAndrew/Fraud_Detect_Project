@@ -54,3 +54,7 @@ The EDA notebook includes:
 * Geographic and demographic exploration
 * Correlation heatmap
 * Fraud-rate visualizations
+
+## 🔧 Preprocessing
+
+This notebook performs all data preparation steps required for modeling, including handling missing values, feature engineering, categorical encoding, frequency encoding, and scaling with StandardScaler. The output is a fully numeric, standardized dataset ready for train–test splitting and model development. This notebook serves as the foundation for the modeling phase.
